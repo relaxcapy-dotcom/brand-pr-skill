@@ -1,0 +1,9 @@
+{
+  "name": "brand-pr-skill",
+  "display_name": "Big Brand PR Agent Framework",
+  "version": "1.0.0",
+  "description": "An AI Agent framework for enterprise brand communications, public relations strategy, reputation management, crisis communications and media intelligence.",
+  "category": ["public-relations", "brand-strategy", "communications"],
+  "triggers": ["brand PR", "public relations", "传播方案", "新闻稿", "舆情分析", "危机公关", "媒体策略"],
+  "outputs": ["communication-plan", "press-release", "media-pitch", "crisis-response", "reputation-report"]
+}
