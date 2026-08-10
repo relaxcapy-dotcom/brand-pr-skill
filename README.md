@@ -25,46 +25,6 @@
 
 的专业工作伙伴。
 
-## 特别适合：不擅长表达，但需要高效沟通的 I 人职场用户
-
-很多优秀的品牌、公关、市场从业者，并不是天生擅长表达型沟通。
-
-他们可能更擅长：
-
-- 深度思考
-- 信息整理
-- 逻辑分析
-- 策略判断
-
-但在真实职场中，经常需要面对：
-
-- 如何向老板汇报复杂项目？
-- 如何拒绝不合理需求又保持合作关系？
-- 如何把专业判断说得让业务愿意接受？
-- 如何面对媒体追问和敏感问题？
-
-本 Skill 增加 Communication Intelligence 模块，帮助用户把“脑中的想法”转化为“别人愿意接受的表达”。
-
-使用方式：
-
-输入你的真实场景，例如：
-
-“老板觉得PR价值不大，我应该怎么沟通？”
-
-“业务要求明天发新闻稿，但我觉得新闻价值不足，如何回复？”
-
-“媒体追问负面问题，我如何回答？”
-
-AI 会帮助拆解：
-
-1. 对方真实关注点
-2. 沟通心理与利益关系
-3. 推荐沟通策略
-4. 可直接复制的话术
-5. 不建议使用的表达
-
-目标不是让你变成外向型表达者，而是帮助你用更清晰、更专业的方式推动事情发生。
-
 ## 项目来源说明
 
 本项目灵感和方法框架来源于互联网大厂品牌、公关、业务 BP 等岗位的实际工作场景总结。
@@ -96,28 +56,6 @@ The framework covers:
 - PR measurement
 - AI-era brand visibility
 
-## Designed for thoughtful professionals, including introverted communicators
-
-Not every excellent communication professional is naturally outspoken.
-
-Many strong strategists are better at:
-
-- structured thinking
-- analysis
-- research
-- strategic judgment
-
-This framework helps users transform internal thinking into effective external communication.
-
-It supports scenarios such as:
-
-- presenting ideas to executives
-- aligning with business teams
-- handling difficult conversations
-- preparing media responses
-
-The goal is not to change your personality, but to help you communicate with more clarity, confidence and impact.
-
 ## Origin & Disclaimer
 
 This project is inspired by practical workflows and accumulated experience from large-scale internet company PR and brand communication teams.
@@ -130,23 +68,78 @@ It does not represent any company's official methodology, internal process or co
 
 # 使用说明 / Usage Guide
 
-## 1. 不要直接让AI写稿
+## 适合谁使用？
 
-❌ 错误：
+特别适合以下职场场景：
 
-“帮我写一篇新闻稿。”
+- 不擅长表达，但需要频繁沟通协作的职场用户
+- 习惯深度思考、逻辑分析，希望快速整理表达的人
+- 经常需要向老板汇报、向业务解释、向媒体沟通的品牌、公关、市场同学
+- 想把“脑中的想法”快速转化成专业表达的 I 人用户
 
-✅ 推荐：
+这个 Skill 不要求你变成一个特别外向的人，而是帮助你减少沟通成本，把复杂问题讲清楚。
+
+---
+
+## 场景1：老板让我汇报项目，但不知道怎么说
+
+复制：
 
 ```
-请以资深品牌公关负责人视角，先判断这个事情是否具有传播价值。
-分析业务目标、用户价值、媒体价值和风险。
-确认传播逻辑后，再输出内容方案。
+请作为大厂品牌公关负责人，帮我整理一次向领导汇报的沟通方案。
+请先分析领导最关注的问题，再输出：
+1. 汇报逻辑；
+2. 核心观点；
+3. 可能追问；
+4. 推荐表达方式。
+要求结论先行，避免流水账。
 ```
 
 ---
 
-## 2. 品牌传播方案
+## 场景2：业务让我发稿，但我觉得价值不足
+
+复制：
+
+```
+请帮我判断这个项目是否值得媒体传播。
+不要直接写新闻稿。
+请分析业务价值、用户价值、新闻价值、媒体兴趣和风险。
+如果传播价值不足，请给出如何优化的建议。
+```
+
+---
+
+## 场景3：不知道怎么拒绝不合理需求
+
+复制：
+
+```
+请帮我优化这段职场沟通。
+目标：不直接否定对方，同时表达专业判断，并推动事情继续推进。
+请输出：
+1. 对方真实诉求；
+2. 沟通策略；
+3. 可直接发送的话术；
+4. 不建议使用的表达。
+```
+
+---
+
+## 场景4：危机或敏感问题沟通
+
+复制：
+
+```
+请进入危机沟通模式。
+先不要写回应稿。
+请先判断事实、风险、利益相关方和沟通策略。
+最后输出媒体回应口径和FAQ。
+```
+
+---
+
+## 场景5：品牌传播方案
 
 适用于：新品、大促、业务项目、品牌升级。
 
