@@ -25,23 +25,51 @@
 
 的专业工作伙伴。
 
+## 特别适合：不擅长表达，但需要高效沟通的 I 人职场用户
+
+很多优秀的品牌、公关、市场从业者，并不是天生擅长表达型沟通。
+
+他们可能更擅长：
+
+- 深度思考
+- 信息整理
+- 逻辑分析
+- 策略判断
+
+但在真实职场中，经常需要面对：
+
+- 如何向老板汇报复杂项目？
+- 如何拒绝不合理需求又保持合作关系？
+- 如何把专业判断说得让业务愿意接受？
+- 如何面对媒体追问和敏感问题？
+
+本 Skill 增加 Communication Intelligence 模块，帮助用户把“脑中的想法”转化为“别人愿意接受的表达”。
+
+使用方式：
+
+输入你的真实场景，例如：
+
+“老板觉得PR价值不大，我应该怎么沟通？”
+
+“业务要求明天发新闻稿，但我觉得新闻价值不足，如何回复？”
+
+“媒体追问负面问题，我如何回答？”
+
+AI 会帮助拆解：
+
+1. 对方真实关注点
+2. 沟通心理与利益关系
+3. 推荐沟通策略
+4. 可直接复制的话术
+5. 不建议使用的表达
+
+目标不是让你变成外向型表达者，而是帮助你用更清晰、更专业的方式推动事情发生。
+
 ## 项目来源说明
 
 本项目灵感和方法框架来源于互联网大厂品牌、公关、业务 BP 等岗位的实际工作场景总结。
 
-包括但不限于：
-
-- “业务找PR，到底怎么判断值不值得传播？”
-- “老板要求搞一个大新闻，如何找到真正新闻价值？”
-- “业务只给三个卖点，如何转化成媒体故事？”
-- “负面舆情发生后，如何快速研判和响应？”
-- “如何证明公关工作的长期价值？”
-
-这些经验经过 AI Agent 化抽象，仅用于：
-
-- 品牌传播工作流优化
-- AI辅助办公探索
-- 行业交流学习
+这些经验经过 AI Agent 化抽象，仅用于品牌传播工作流优化、AI辅助办公探索和行业交流学习。
 
 特别说明：
 
@@ -68,19 +96,33 @@ The framework covers:
 - PR measurement
 - AI-era brand visibility
 
+## Designed for thoughtful professionals, including introverted communicators
+
+Not every excellent communication professional is naturally outspoken.
+
+Many strong strategists are better at:
+
+- structured thinking
+- analysis
+- research
+- strategic judgment
+
+This framework helps users transform internal thinking into effective external communication.
+
+It supports scenarios such as:
+
+- presenting ideas to executives
+- aligning with business teams
+- handling difficult conversations
+- preparing media responses
+
+The goal is not to change your personality, but to help you communicate with more clarity, confidence and impact.
+
 ## Origin & Disclaimer
 
 This project is inspired by practical workflows and accumulated experience from large-scale internet company PR and brand communication teams.
 
-It abstracts common communication challenges into reusable AI workflows, including:
-
-- Turning business goals into communication strategies
-- Evaluating whether a topic is truly newsworthy
-- Building media narratives
-- Managing reputation risks
-- Measuring communication impact
-
-This project is for reference, learning and workflow optimization only.
+It is designed for reference, learning and workflow optimization only.
 
 It does not represent any company's official methodology, internal process or confidential information.
 
@@ -118,45 +160,6 @@ It does not represent any company's official methodology, internal process or co
 
 ---
 
-## 3. 新闻价值判断
-
-适用于：老板要求“搞个大新闻”。
-
-复制：
-
-```
-请帮我评估这个项目是否值得进行媒体传播。
-不要直接写稿。
-请从新闻价值、行业意义、用户价值、媒体兴趣和风险五个方面评分，并提出优化建议。
-```
-
----
-
-## 4. 危机公关
-
-复制：
-
-```
-请进入危机公关模式。
-先不要写回应稿。
-请先判断危机等级，梳理事实、风险、利益相关方和行动计划。
-最后输出媒体回应口径和FAQ。
-```
-
----
-
-## 5. 竞品传播分析
-
-复制：
-
-```
-请拆解竞品传播案例。
-分析业务背景、传播目标、核心叙事、媒体打法、社交玩法、成功原因以及我们的机会点。
-不要简单罗列案例。
-```
-
----
-
 # Core Capabilities
 
 - Business-to-PR Translation
@@ -166,6 +169,7 @@ It does not represent any company's official methodology, internal process or co
 - Reputation Intelligence
 - Crisis Communications
 - Executive Communications
+- Communication Intelligence
 - PR Measurement
 - AI-era Brand Visibility
 
